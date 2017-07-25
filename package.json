@@ -1,12 +1,13 @@
 {
   "name": "timestamp-alexjlw",
   "dependencies": {
+    "ejs": "2.5.6",
     "express": "^4.14.0",
     "moment": "^2.18.1"
   },
   "main": "server.js",
   "scripts": {
-    "start": "node --harmony index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "4.4.5"
